@@ -39,6 +39,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -220,6 +221,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      TheThiefIdleUp_3: 669964238356502705
+      TheThiefIdleUp_4: -858927722398321719
+      TheThiefIdleUp_2: -84599482387033927
+      TheThiefIdleUp_1: 7116313108137537803
+      TheThiefIdleUp_0: 8662438800511677171
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

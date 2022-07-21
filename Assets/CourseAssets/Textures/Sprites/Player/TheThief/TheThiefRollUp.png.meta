@@ -42,6 +42,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -244,6 +245,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      TheThiefRollUp_0: 4883443084954278507
+      TheThiefRollUp_2: -5710145708546895717
+      TheThiefRollUp_5: 3617358270015283832
+      TheThiefRollUp_1: -4514020785049394648
+      TheThiefRollUp_3: 4307421585962371480
+      TheThiefRollUp_4: 8279776886682224970
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
